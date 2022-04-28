@@ -1,5 +1,6 @@
 # Opa, sou o Lucas Felipe e atualmente estou estudando Desenvolvimento Web na EBAC! 
-Estou no começo ainda, me divertindo no HTML, CSS e o básico de JS
+Estou no começo ainda, me divertindo no HTML, CSS e o básico de JS<br>
+Primeiro projeto <a href="https://lucasfelipe-s.github.io/Codigo-da-Virada/" target="_blank">Desafio Código da Virada</a>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
