@@ -1,6 +1,12 @@
-# Opa, sou o Lucas Felipe
-Atualmente estou estudando Desenvolvimento Web na EBAC!<br>
-Estou no começo ainda, me divertindo no HTML, CSS e o básico de JS<br>
+# Opa, sou o Lucas Felipe 👋🏾
+Atualmente estou estudando Desenvolvimento Web na EBAC!
+<br>
+Estou no começo ainda, me divertindo no HTML, CSS e o básico de JS.
+<br>
+<br>
+Correria sempre, ser a melhor versão de mim.
+<blockquote>"Se fosse fácil era para qualquer um, o difícil não é impossível, quem protege não dorme, quem promete não falha.<br>
+  E o fundamento é o mesmo, correria hoje, vitória amanhã!"</blockquote>
 
 ## NLW Return Origin
 
