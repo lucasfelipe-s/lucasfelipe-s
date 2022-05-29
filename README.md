@@ -6,9 +6,9 @@ Atualmente estou estudando Desenvolvimento Web Full Stack na EBAC e fazendo o Bo
 Estou no começo ainda, me divertindo no Front End com as tecnologias básicas da área.
 <br>
 <br>
-Correria sempre, ser a melhor versão de mim.
-<blockquote>"Se fosse fácil era para qualquer um, o difícil não é impossível, quem protege não dorme, quem promete não falha.<br>
-  E o fundamento é o mesmo, correria hoje, vitória amanhã!"</blockquote>
+Correria sempre, ser a melhor versão de mim.<br>
+"Se fosse fácil era para qualquer um, o difícil não é impossível, quem protege não dorme, quem promete não falha.<br>
+  E o fundamento é o mesmo, correria hoje, vitória amanhã!"
   
 ## Contato
 
