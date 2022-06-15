@@ -10,7 +10,7 @@
 </div>
 <br>
 <div style="display: inline-block">
-Atualmente estou estudando Desenvolvimento Web Full Stack na EBAC e fazendo o Bootcamp Santander Full Stack na DIO!
+  Atualmente estou estudando <b> Desenvolvimento Web Full Stack na EBAC</b>, fazendo o <b>Bootcamp Santander Full Stack na DIO</b> e realizando o curso <b> CC50: Introdução à Ciência da Computação (HARVARD) pela fundação estudar</b> e por isso diminui a quantidade de commits, visto que as atividades são em outra plataforma!
 <br>
 Estou no começo ainda, me divertindo no Front End com as tecnologias básicas da área.</br>
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
