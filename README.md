@@ -5,12 +5,12 @@
   <br>
   <b>Correria sempre, ser a melhor versão de mim.</b>
     <br>
-  <em>"Se fosse fácil era para qualquer um, o difícil não é impossível, quem protege não dorme, quem promete não falha.<br>
+  <em>"Se fosse fácil era para qualquer um.<br>
   E o fundamento é o mesmo, correria hoje, vitória amanhã!"</em>
 </div>
 <br>
 <div style="display: inline-block">
-  Atualmente estou estudando <b> Desenvolvimento Web Full Stack na EBAC</b>, fazendo o <b>Bootcamp Santander Full Stack na DIO</b> e realizando o curso <b> CC50: Introdução à Ciência da Computação (HARVARD) pela fundação estudar</b> e por isso diminui a quantidade de commits, visto que as atividades são em outra plataforma!
+  Atualmente estou estudando <b> Desenvolvimento Web Full Stack na EBAC</b>
 <br>
 Estou no começo ainda, me divertindo no Front End com as tecnologias básicas da área.</br>
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
