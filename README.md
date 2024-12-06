@@ -5,7 +5,6 @@
 
 Calvin Coolidge
 </div>
-<br>
 
 ## Contato
 
